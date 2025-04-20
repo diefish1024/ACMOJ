@@ -15,11 +15,11 @@ This repository contains my solutions to problems on the [ACMOJ](https://acm.sjt
 
 ## Plan
 
-| Problem | Solved | Writeup | Difficulty (1-3) | Note |
-| ------- | ------ | ------- | ---------------- | ---- |
+| Problem                                                   | Solved | Writeup | Difficulty (1-3) | Note |
+| --------------------------------------------------------- | ------ | ------- | ---------------- | ---- |
 | [P2350](https://acm.sjtu.edu.cn/OnlineJudge/problem/2350) | ✅      | ✅       | 1                |      |
 | [P2689](https://acm.sjtu.edu.cn/OnlineJudge/problem/2689) | ✅      | ✅       | 1                |      |
-| [P2487](https://acm.sjtu.edu.cn/OnlineJudge/problem/2487) |        |         |                  |      |
+| [P2487](https://acm.sjtu.edu.cn/OnlineJudge/problem/2487) | ✅      | ✅       | 1                |      |
 | [P2489](https://acm.sjtu.edu.cn/OnlineJudge/problem/2489) |        |         |                  |      |
 | [P2490](https://acm.sjtu.edu.cn/OnlineJudge/problem/2490) |        |         |                  |      |
 | [P2497](https://acm.sjtu.edu.cn/OnlineJudge/problem/2497) |        |         |                  |      |
