@@ -6,3 +6,5 @@ add_subdirectory(P2350)
 add_subdirectory(P2689)
 
 add_subdirectory(P2487)
+
+add_subdirectory(P2489)
