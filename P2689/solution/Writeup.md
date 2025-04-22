@@ -1,4 +1,4 @@
-# P2689
+# P2689 Yet Another Triple Problem
 
 ## 思路
 
