@@ -22,7 +22,7 @@ This repository contains my solutions to problems on the [ACMOJ](https://acm.sjt
 | [P2487](https://acm.sjtu.edu.cn/OnlineJudge/problem/2487) |   ✅    |    ✅    |        1         |      |
 | [P2489](https://acm.sjtu.edu.cn/OnlineJudge/problem/2489) |   ✅    |    ✅    |        1         |      |
 | [P2490](https://acm.sjtu.edu.cn/OnlineJudge/problem/2490) |   ✅    |    ✅    |        1         |      |
-| [P2497](https://acm.sjtu.edu.cn/OnlineJudge/problem/2497) |        |         |                  |      |
+| [P2497](https://acm.sjtu.edu.cn/OnlineJudge/problem/2497) |   ✅    |    ✅    |        1         |      |
 | [P2474](https://acm.sjtu.edu.cn/OnlineJudge/problem/2474) |        |         |                  |      |
 | [P2504](https://acm.sjtu.edu.cn/OnlineJudge/problem/2504) |        |         |                  |      |
 | [P2626](https://acm.sjtu.edu.cn/OnlineJudge/problem/2626) |        |         |                  |      |

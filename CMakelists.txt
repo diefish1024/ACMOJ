@@ -10,3 +10,5 @@ add_subdirectory(P2487)
 add_subdirectory(P2489)
 
 add_subdirectory(P2490)
+
+add_subdirectory(P2497)
