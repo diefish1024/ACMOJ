@@ -4,7 +4,7 @@ This repository contains my solutions to problems on the [ACMOJ](https://acm.sjt
 
 ## Usage
 **Creating a new problem:**
--   Run `./create_problem.sh` in the project root.
+-   Run `./scripts/create_problem.sh` in the project root.
 -   Enter the problem number when prompted.
 -   The script will create the necessary folderstructure and files.
 
@@ -23,7 +23,6 @@ This repository contains my solutions to problems on the [ACMOJ](https://acm.sjt
 | [P2489](https://acm.sjtu.edu.cn/OnlineJudge/problem/2489) |   ✅    |    ✅    |        1         |     Topo Sort     |
 | [P2490](https://acm.sjtu.edu.cn/OnlineJudge/problem/2490) |   ✅    |    ✅    |        1         |       Hash        |
 | [P2497](https://acm.sjtu.edu.cn/OnlineJudge/problem/2497) |   ✅    |    ✅    |        1         | Integer Partition |
-| [P2474](https://acm.sjtu.edu.cn/OnlineJudge/problem/2474) |        |         |                  |                   |
 | [P2504](https://acm.sjtu.edu.cn/OnlineJudge/problem/2504) |        |         |                  |                   |
 | [P2626](https://acm.sjtu.edu.cn/OnlineJudge/problem/2626) |        |         |                  |                   |
 | [P2624](https://acm.sjtu.edu.cn/OnlineJudge/problem/2624) |        |         |                  |                   |
